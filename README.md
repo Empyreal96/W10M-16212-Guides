@@ -4,7 +4,7 @@ Guides for installing prerelease build Windows 10 Mobile build 16212, These are 
 
 
 
-## Update using Phone Updater
+## [Update using Phone Updater](https://github.com/Empyreal96/W10M-16212-Guides/wiki/Update-using-Phone-Updater)
 
 ## Update using Universal Updater
 
