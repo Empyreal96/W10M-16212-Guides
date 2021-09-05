@@ -7,9 +7,10 @@ The 16212 update cabs are hosted by me on Dropbox, if you have issues with dead 
 
 
 
-## [Update using Phone Updater](https://github.com/Empyreal96/W10M-16212-Guides/wiki/Update-using-Phone-Updater)
+### [Update using Phone Updater](https://github.com/Empyreal96/W10M-16212-Guides/wiki/Update-using-Phone-Updater)
 
-## [Update using Universal Updater](https://github.com/Empyreal96/W10M-16212-Guides/wiki/Update-using-Universal-Updater)
+### [Update using Universal Updater](https://github.com/Empyreal96/W10M-16212-Guides/wiki/Update-using-Universal-Updater)
 
-## [Known Issues (WIP)](https://github.com/Empyreal96/W10M-16212-Guides/wiki/Known-Issues)
+### [Known Issues (WIP)](https://github.com/Empyreal96/W10M-16212-Guides/wiki/Known-Issues)
 
+### [FAQ](https://github.com/Empyreal96/W10M-16212-Guides/wiki/FAQ)
