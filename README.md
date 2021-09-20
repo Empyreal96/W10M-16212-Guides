@@ -14,3 +14,7 @@ The 16212 update cabs are hosted by me on Dropbox, if you have issues with dead 
 ### [Known Issues (WIP)](https://github.com/Empyreal96/W10M-16212-Guides/wiki/Known-Issues)
 
 ### [FAQ](https://github.com/Empyreal96/W10M-16212-Guides/wiki/FAQ)
+
+## Not Supported/Recommended Guides
+
+### Upgrade With Unlocked Bootloader (Coming Soon)
