@@ -17,4 +17,4 @@ The 16212 update cabs are hosted by me on Dropbox, if you have issues with dead 
 
 ## Not Supported/Recommended Guides
 
-### Upgrade With Unlocked Bootloader (Coming Soon)
+### [Upgrade With Unlocked Bootloader](https://github.com/Empyreal96/W10M-16212-Guides/wiki/Update-with-Unlocked-Bootloader-(Not-Recommended))
